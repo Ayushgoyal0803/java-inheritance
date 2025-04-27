@@ -7,7 +7,7 @@ class Animal{
         this.age = age;
     }
     void makeSound(){
-        System.out.println("animal is making sound");
+        System.out.println("Animal is making sound");
     }
 }
 
